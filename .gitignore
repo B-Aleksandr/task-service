@@ -1,0 +1,23 @@
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Build
+target/
+*.jar
+*.war
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
